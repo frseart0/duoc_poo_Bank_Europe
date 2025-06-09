@@ -9,7 +9,7 @@ public class main {
         ArrayList<Cliente> clientes = new ArrayList<>();
         ArrayList<CuentaBancaria> cuentas = new ArrayList<>();
 
-        Cliente C1 = new Cliente(   "20123456-1",
+        Cliente C1 = new Cliente(   "20123456-2",
                                     "Francisco",
                                     "Arellano",
                                     "Toledo",
